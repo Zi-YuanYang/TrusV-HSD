@@ -1,1 +1,3 @@
-# TrusV-HSD
+# Trustworthy Hate Speech Detection Through Visual Augmentation
+
+Abstract: The surge of hate speech on social media platforms poses a significant challenge, with hate speech detection~(HSD) becoming increasingly critical. Current HSD methods focus on enriching contextual information to enhance detection performance, but they overlook the inherent uncertainty of hate speech. We propose a novel HSD method, named trustworthy hate speech detection method through visual augmentation (TrusV-HSD), which enhances semantic information through integration with diffused visual images and mitigates uncertainty with trustworthy loss. TrusV-HSD learns semantic representations by effectively extracting trustworthy information through multi-modal connections without paired data. Our experiments on public HSD datasets demonstrate the effectiveness of TrusV-HSD, showing remarkable improvements over conventional methods.
