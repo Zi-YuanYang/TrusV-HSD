@@ -13,3 +13,9 @@ If our work is valuable to you, please cite our work:
   year={2024}
 }
 ```
+#### Contact
+If you have any question or suggestion to our work, please feel free to contact me. My email is cziyuanyang@gmail.com.
+
+#### Reference
+We refer to the following repository:
+* https://github.com/songruiecho/RSGNN
